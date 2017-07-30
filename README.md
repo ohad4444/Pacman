@@ -10,6 +10,10 @@ How to download and use DOXBox:
 
 https://www.youtube.com/watch?v=kn44P0pYu5I
 
+After you have DOXBox, Download PACMAN_FINAL and extract the exe file.
+
+Run the exe file through DOXBox and enjoy!
+
 
 ===========================================================
 
